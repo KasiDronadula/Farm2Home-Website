@@ -5,7 +5,7 @@ This project is built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure.
 
 Farm2Home/<br>
 │── screenshots/<br>
